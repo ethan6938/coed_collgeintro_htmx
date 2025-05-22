@@ -34,5 +34,5 @@ app.get('/users', async (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log('🚀 Server ready at http://localhost:3000');
+  console.log('🚀 Server ready at 3000');
 });
